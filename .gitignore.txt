@@ -1,0 +1,12 @@
+# Database connection (bảo mật)
+connect.php
+
+# XAMPP / PHP
+uploads/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
