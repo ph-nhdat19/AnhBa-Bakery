@@ -73,7 +73,7 @@ C:\xampp\htdocs\YourName
 4. Import database: chạy file `reviews.sql` trong phpMyAdmin
 5. Khởi động **Apache** và **MySQL** trong XAMPP
 6. Mở trình duyệt vào:
-http://localhost/T-SHOP/
+http://localhost/YourName/
 
 ### Đăng nhập Admin
 Truy cập `http://localhost/YourName/admin.php` bằng tài khoản có `role = admin`
@@ -81,7 +81,7 @@ Truy cập `http://localhost/YourName/admin.php` bằng tài khoản có `role =
 ---
 
 ## 📁 Cấu trúc thư mục
-T-SHOP/
+YourName/
 ├── admin.php           # Trang quản trị
 ├── index.php           # Trang chủ
 ├── header.php          # Header dùng chung
